@@ -1,0 +1,5 @@
+{
+  "name": "Rubrica de Evaluacion para Residentes R1",
+  "description": "Una aplicación para llevar a cabo la evaluación de desempeño de los residentes de primer año de pediatría, basada en la rúbrica del Hospital Roosevelt. Permite calificar criterios, calcular una puntuación global y registrar retroalimentación.",
+  "requestFramePermissions": []
+}
